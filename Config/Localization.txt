@@ -1,0 +1,11 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,spanish,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese
+modDyeViolet,item_modifiers,mod,,,Dye: Violet,,,,,,,,,,,,,
+modDyePitchBlack,item_modifiers,mod,,,Dye: Pitch Black,,,,,,,,,,,,,
+modDyeGingerbread,item_modifiers,mod,,,Dye: Gingerbread,,,,,,,,,,,,,
+modDyeCobalt,item_modifiers,mod,,,Dye: Cobalt,,,,,,,,,,,,,
+modDyeShamrock,item_modifiers,mod,,,Dye: Shamrock,,,,,,,,,,,,,
+modDyeFuchsia,item_modifiers,mod,,,Dye: Fuchsia,,,,,,,,,,,,,
+modDyeCandy,item_modifiers,mod,,,Dye: Candy,,,,,,,,,,,,,
+modDyeTiger,item_modifiers,mod,,,Dye: Tiger,,,,,,,,,,,,,
+modDyePineapple,item_modifiers,mod,,,Dye: Pineapple,,,,,,,,,,,,,
+modDyeDaisy,item_modifiers,mod,,,Dye: Daisy,,,,,,,,,,,,,
