@@ -18,3 +18,4 @@
 
 ![](https://github.com/gitIntruder/intrudersMods/blob/main/Images/Dyes.png?raw=true)
 ![](https://github.com/gitIntruder/intrudersMods/blob/main/Images/DyesOn4x4s.png?raw=true)
+![](https://github.com/gitIntruder/intrudersMods/blob/main/Images/ChemStationCategory.png?raw=true)
