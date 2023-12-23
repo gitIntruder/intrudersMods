@@ -1,0 +1,5 @@
+<configs>
+  <append xpath="/ui_display_info/crafting_category_display/crafting_category_list[@display_type='chemistryStation']">
+    <crafting_category name="Dye" icon="ui_game_symbol_paint_bucket" display_name="ic_lblCategoryDye" />
+  </append>
+</configs>

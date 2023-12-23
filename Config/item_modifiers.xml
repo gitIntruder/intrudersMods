@@ -6,7 +6,7 @@
       <property name="DescriptionKey" value="modDyeGroupDesc"/>
       <property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="113,1,147"/>
       <property name="Material" value="Mpaint"/>
-      <property name="Group" value="Resources,Chemicals,CFChemicals"/>
+      <property name="Group" value="Dye"/>
       <property name="Weight" value="20"/>
 
       <item_property_overrides name="*">
@@ -54,7 +54,7 @@
       <property name="DescriptionKey" value="modDyeGroupDesc"/>
       <property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="0,0,0"/>
       <property name="Material" value="Mpaint"/>
-      <property name="Group" value="Resources,Chemicals,CFChemicals"/>
+      <property name="Group" value="Dye"/>
       <property name="Weight" value="20"/>
 
       <item_property_overrides name="*">
@@ -102,7 +102,7 @@
       <property name="DescriptionKey" value="modDyeGroupDesc"/>
       <property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="93,44,4"/>
       <property name="Material" value="Mpaint"/>
-      <property name="Group" value="Resources,Chemicals,CFChemicals"/>
+      <property name="Group" value="Dye"/>
       <property name="Weight" value="20"/>
 
       <item_property_overrides name="*">
@@ -150,7 +150,7 @@
       <property name="DescriptionKey" value="modDyeGroupDesc"/>
       <property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="19,56,189"/>
       <property name="Material" value="Mpaint"/>
-      <property name="Group" value="Resources,Chemicals,CFChemicals"/>
+      <property name="Group" value="Dye"/>
       <property name="Weight" value="20"/>
 
       <item_property_overrides name="*">
@@ -198,7 +198,7 @@
       <property name="DescriptionKey" value="modDyeGroupDesc"/>
       <property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="3,172,19"/>
       <property name="Material" value="Mpaint"/>
-      <property name="Group" value="Resources,Chemicals,CFChemicals"/>
+      <property name="Group" value="Dye"/>
       <property name="Weight" value="20"/>
 
       <item_property_overrides name="*">
@@ -246,7 +246,7 @@
       <property name="DescriptionKey" value="modDyeGroupDesc"/>
       <property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="252,70,170"/>
       <property name="Material" value="Mpaint"/>
-      <property name="Group" value="Resources,Chemicals,CFChemicals"/>
+      <property name="Group" value="Dye"/>
       <property name="Weight" value="20"/>
 
       <item_property_overrides name="*">
@@ -294,7 +294,7 @@
       <property name="DescriptionKey" value="modDyeGroupDesc"/>
       <property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="210,21,2"/>
       <property name="Material" value="Mpaint"/>
-      <property name="Group" value="Resources,Chemicals,CFChemicals"/>
+      <property name="Group" value="Dye"/>
       <property name="Weight" value="20"/>
 
       <item_property_overrides name="*">
@@ -342,7 +342,7 @@
       <property name="DescriptionKey" value="modDyeGroupDesc"/>
       <property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="252,107,2"/>
       <property name="Material" value="Mpaint"/>
-      <property name="Group" value="Resources,Chemicals,CFChemicals"/>
+      <property name="Group" value="Dye"/>
       <property name="Weight" value="20"/>
 
       <item_property_overrides name="*">
@@ -390,7 +390,7 @@
       <property name="DescriptionKey" value="modDyeGroupDesc"/>
       <property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="254,226,39"/>
       <property name="Material" value="Mpaint"/>
-      <property name="Group" value="Resources,Chemicals,CFChemicals"/>
+      <property name="Group" value="Dye"/>
       <property name="Weight" value="20"/>
 
       <item_property_overrides name="*">
@@ -438,7 +438,7 @@
       <property name="DescriptionKey" value="modDyeGroupDesc"/>
       <property name="CustomIcon" value="modDyeWhite"/> <property name="CustomIconTint" value="255,255,255"/>
       <property name="Material" value="Mpaint"/>
-      <property name="Group" value="Resources,Chemicals,CFChemicals"/>
+      <property name="Group" value="Dye"/>
       <property name="Weight" value="20"/>
 
       <item_property_overrides name="*">
