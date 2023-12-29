@@ -11,4 +11,13 @@
     <item name="modDyePineapple"/>
     <item name="modDyeDaisy"/>
   </append>
+  <set xpath="/lootcontainers/lootcontainer[@name='refrigerator']/@size">
+    8,9
+  </set>
+  <set xpath="/lootcontainers/lootcontainer[@name='waterCooler']/@size">
+    6,6
+  </set>
+  <set xpath="/lootcontainers/lootcontainer[@name='beerCooler']/@size">
+    6,6
+  </set>
 </configs>
