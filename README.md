@@ -3,6 +3,16 @@
 - Each new Dye can be crafted at a Chemistry Bench.
 - New Dyes can be used like the existing ones, on Apparel, Armor, Vehicles etc.
 - Chemistry Station Category added in the UI to organize dyes.
+- Storage Size of decorative blocks you buy from the trader are increased to 8 x 9 slots
+  - Oven
+  - Laundry
+  - Refrigerator
+  - Microwave
+  - Wooden Desk
+  - Metal Desk
+  - Night Stand
+  - Lockers
+  - Dishwasher
 
 ## New Colors
 - Violet
